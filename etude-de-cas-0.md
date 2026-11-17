@@ -1,4 +1,4 @@
-# Étude de cas n°0 - Piloter seul un projet de dix mois avec des agents IA
+# Étude de cas n°0 - Piloter un projet de dix mois avec des agents IA
 
 ## 1. Contexte
 
